@@ -1,60 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </select>
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="38dff7b2-e893-4afe-80e5-25fb0e96c486" name="Default Changelist" comment="git" />
-    <list id="0a73c4f0-3bcc-4978-ab3c-b92e84fa0caa" name="Revert &quot;'master'&quot;" comment="Revert &quot;'master'&quot;&#10;&#10;This reverts commit 1ffb57c8" />
+    <list default="true" id="2c3110d7-93e1-4a05-8cc8-04fba9a0f855" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/helloworldproject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/helloworldproject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
-    <envs>
-      <env key="FLASK_APP" value="app" />
-    </envs>
-    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
-    <option name="myEnvs">
-      <map>
-        <entry key="FLASK_APP" value="app" />
-      </map>
-    </option>
-  </component>
-  <component name="Git.Pull.Settings">
-    <option name="BRANCH" value="master" />
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$/.." value="master" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-    <option name="RESET_MODE" value="HARD" />
-  </component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="hiddenUrls">
-      <set>
-        <option value="https://github.com/Kazoo1122/helloworldproject" />
-      </set>
-    </option>
   </component>
   <component name="JupyterTrust" id="84dd43d9-3e11-40e2-b799-c77d37f98432" />
-  <component name="ProjectId" id="1jlsfM0ZWk0HciYrIQ5UDhSuQ2k" />
+  <component name="ProjectId" id="1jmV5FZxv14qUZG24SZnzmGY4mN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -63,31 +24,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="helloworldproject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager">
     <configuration name="helloworldproject" type="Python.DjangoServer" factoryName="Django server">
       <module name="helloworldproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -115,159 +53,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="38dff7b2-e893-4afe-80e5-25fb0e96c486" name="Default Changelist" comment="" />
-      <created>1604390116801</created>
+      <changelist id="2c3110d7-93e1-4a05-8cc8-04fba9a0f855" name="Default Changelist" comment="" />
+      <created>1604409069452</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1604390116801</updated>
-      <workItem from="1604390118685" duration="5952000" />
-      <workItem from="1604397091170" duration="341000" />
-      <workItem from="1604397451709" duration="681000" />
-      <workItem from="1604398406551" duration="456000" />
-      <workItem from="1604398963803" duration="3946000" />
+      <updated>1604409069452</updated>
+      <workItem from="1604409071289" duration="36000" />
     </task>
-    <task id="LOCAL-00001" summary="Revert &quot;remove&quot;&#10;&#10;This reverts commit c377b4c5">
-      <created>1604400742258</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1604400742258</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="CUSTOM_BOOLEAN_PROPERTIES">
-                <map>
-                  <entry key="Show.Git.Branches" value="true" />
-                </map>
-              </option>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-              <option name="COLUMN_WIDTH">
-                <map>
-                  <entry key="2" value="68" />
-                  <entry key="3" value="98" />
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="Branch">
-          <value>
-            <list>
-              <RecentGroup>
-                <option name="FILTER_VALUES">
-                  <option value="master" />
-                </option>
-              </RecentGroup>
-              <RecentGroup>
-                <option name="FILTER_VALUES">
-                  <option value="HEAD" />
-                </option>
-              </RecentGroup>
-            </list>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="comit test" />
-    <MESSAGE value="Revert &quot;remove&quot;&#10;&#10;This reverts commit c377b4c5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;remove&quot;&#10;&#10;This reverts commit c377b4c5" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="-1208" y="238" key="#Deployment" timestamp="1604400707540">
-      <screen x="-1920" y="0" width="1920" height="1050" />
-    </state>
-    <state x="-1208" y="238" key="#Deployment/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1604400707540" />
-    <state x="-1346" y="214" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604392783616">
-      <screen x="-1920" y="0" width="1920" height="1050" />
-    </state>
-    <state x="-1346" y="214" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1604392783616" />
-    <state x="-1171" y="146" key="CommitChangelistDialog2" timestamp="1604400751370">
-      <screen x="-1920" y="0" width="1920" height="1050" />
-    </state>
-    <state x="-1171" y="146" key="CommitChangelistDialog2/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1604400751370" />
-    <state width="260" height="442" key="Diff.GoToChangePopup" timestamp="1604394002255">
-      <screen x="-1920" y="0" width="1920" height="1050" />
-    </state>
-    <state width="260" height="442" key="Diff.GoToChangePopup/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1604394002255" />
-    <state x="-1283" y="261" width="1024" height="579" key="DiffContextDialog" timestamp="1604400822637">
-      <screen x="-1920" y="0" width="1920" height="1050" />
-    </state>
-    <state x="-1283" y="261" width="1024" height="579" key="DiffContextDialog/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1604400822637" />
-    <state x="-1020" y="301" key="FileChooserDialogImpl" timestamp="1604398852348">
-      <screen x="-1920" y="0" width="1920" height="1050" />
-    </state>
-    <state x="-1020" y="301" key="FileChooserDialogImpl/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1604398852348" />
-    <state x="-940" y="458" width="281" height="204" key="Github.ShareDialog" timestamp="1604399209853">
-      <screen x="-1920" y="0" width="1920" height="1050" />
-    </state>
-    <state x="-940" y="458" width="281" height="204" key="Github.ShareDialog/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1604399209853" />
-    <state x="-993" y="262" key="RollbackChangesDialog" timestamp="1604397639825">
-      <screen x="-1920" y="0" width="1920" height="1050" />
-    </state>
-    <state x="-993" y="262" key="RollbackChangesDialog/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1604397639825" />
-    <state x="-1291" y="191" key="SettingsEditor" timestamp="1604401722877">
-      <screen x="-1920" y="0" width="1920" height="1050" />
-    </state>
-    <state x="-1291" y="191" key="SettingsEditor/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1604401722877" />
-    <state x="-912" y="474" key="VCS.EditChangelistDialog" timestamp="1604393293094">
-      <screen x="-1920" y="0" width="1920" height="1050" />
-    </state>
-    <state x="-912" y="474" key="VCS.EditChangelistDialog/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1604393293094" />
-    <state x="-1208" y="292" key="Vcs.Push.Dialog.v2" timestamp="1604400637153">
-      <screen x="-1920" y="0" width="1920" height="1050" />
-    </state>
-    <state x="-1208" y="292" key="Vcs.Push.Dialog.v2/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1604400637153" />
-    <state x="-1052" y="280" key="VcsDiffUtil.ChangesDialog" timestamp="1604400675561">
-      <screen x="-1920" y="0" width="1920" height="1050" />
-    </state>
-    <state x="-1052" y="280" key="VcsDiffUtil.ChangesDialog/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1604400675561" />
-    <state x="-1283" y="229" width="967" height="662" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1604390995589">
-      <screen x="-1920" y="0" width="1920" height="1050" />
-    </state>
-    <state x="-1283" y="229" width="967" height="662" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1604390995589" />
-    <state x="-1283" y="229" width="967" height="662" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1604390995589">
-      <screen x="-1920" y="0" width="1920" height="1050" />
-    </state>
-    <state x="-1283" y="229" width="967" height="662" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1604390995589" />
-    <state x="-982" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604392543794">
-      <screen x="-1920" y="0" width="1920" height="1050" />
-    </state>
-    <state x="-982" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1604392543794" />
-    <state x="-1036" y="451" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1604400560568">
-      <screen x="-1920" y="0" width="1920" height="1050" />
-    </state>
-    <state x="-1036" y="451" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1604400560568" />
-    <state x="-985" y="454" key="git4idea.ui.GitResetDialog" timestamp="1604397332743">
-      <screen x="-1920" y="0" width="1920" height="1050" />
-    </state>
-    <state x="-985" y="454" key="git4idea.ui.GitResetDialog/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1604397332743" />
   </component>
 </project>
