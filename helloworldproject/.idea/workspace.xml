@@ -7,16 +7,29 @@
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c3110d7-93e1-4a05-8cc8-04fba9a0f855" name="Default Changelist" comment="New">
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworldproject/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/helloworldproject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/helloworldproject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworldapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworldapp/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworldapp/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworldapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworldapp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworldapp/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworldapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworldapp/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworldproject/filecheck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templetes/hello.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworldproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloworldproject/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/helloworldproject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloworldproject/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworldproject/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloworldproject/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,20 +58,28 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="JupyterTrust" id="84dd43d9-3e11-40e2-b799-c77d37f98432" />
   <component name="ProjectId" id="1jmV5FZxv14qUZG24SZnzmGY4mN" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager">
     <configuration name="helloworldproject" type="Python.DjangoServer" factoryName="Django server">
@@ -97,7 +118,7 @@
       <workItem from="1604409117044" duration="479000" />
       <workItem from="1604411135495" duration="1000" />
       <workItem from="1604714793920" duration="3409000" />
-      <workItem from="1604719124538" duration="2006000" />
+      <workItem from="1604719124538" duration="11340000" />
     </task>
     <task id="LOCAL-00001" summary="New">
       <created>1604409157939</created>
@@ -106,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604409157939</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="New">
+      <created>1604721402549</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604721402549</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,8 +153,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="New" />
-    <option name="LAST_COMMIT_MESSAGE" value="New" />
+    <MESSAGE value="Newa" />
+    <option name="LAST_COMMIT_MESSAGE" value="Newa" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1221" y="349" key="#Notifications" timestamp="1604719714554">
@@ -137,18 +167,22 @@
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
     <state x="-1061" y="390" width="570" height="603" key="#Vim_Emulation/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1604717220781" />
+    <state x="-1021" y="287" key="FileChooserDialogImpl" timestamp="1604727578858">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1021" y="287" key="FileChooserDialogImpl/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1604727578858" />
     <state x="-941" y="444" key="Github.ShareDialog" timestamp="1604409396041">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
     <state x="-941" y="444" key="Github.ShareDialog/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1604409396041" />
-    <state x="-1292" y="191" key="SettingsEditor" timestamp="1604719182084">
+    <state x="-1292" y="191" key="SettingsEditor" timestamp="1604728128996">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state x="-1292" y="191" key="SettingsEditor/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1604719182084" />
-    <state x="-1209" y="279" key="Vcs.Push.Dialog.v2" timestamp="1604721098566">
+    <state x="-1292" y="191" key="SettingsEditor/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1604728128996" />
+    <state x="-1209" y="279" key="Vcs.Push.Dialog.v2" timestamp="1604721490777">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state x="-1209" y="279" key="Vcs.Push.Dialog.v2/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1604721098566" />
+    <state x="-1209" y="279" key="Vcs.Push.Dialog.v2/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1604721490777" />
     <state x="-1297" y="227" key="search.everywhere.popup" timestamp="1604720068141">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
