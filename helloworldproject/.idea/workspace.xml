@@ -1,15 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c3110d7-93e1-4a05-8cc8-04fba9a0f855" name="Default Changelist" comment="">
+    <list default="true" id="2c3110d7-93e1-4a05-8cc8-04fba9a0f855" name="Default Changelist" comment="New">
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworldproject/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/helloworldproject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/helloworldproject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworldproject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloworldproject/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -24,6 +57,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="helloworldproject" type="Python.DjangoServer" factoryName="Django server">
@@ -59,10 +94,64 @@
       <option name="presentableId" value="Default" />
       <updated>1604409069452</updated>
       <workItem from="1604409071289" duration="36000" />
+      <workItem from="1604409117044" duration="479000" />
+      <workItem from="1604411135495" duration="1000" />
+      <workItem from="1604714793920" duration="3409000" />
+      <workItem from="1604719124538" duration="2006000" />
     </task>
+    <task id="LOCAL-00001" summary="New">
+      <created>1604409157939</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604409157939</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New" />
+    <option name="LAST_COMMIT_MESSAGE" value="New" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1221" y="349" key="#Notifications" timestamp="1604719714554">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1221" y="349" key="#Notifications/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1604719714554" />
+    <state x="-1061" y="390" width="570" height="603" key="#Vim_Emulation" timestamp="1604717220781">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1061" y="390" width="570" height="603" key="#Vim_Emulation/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1604717220781" />
+    <state x="-941" y="444" key="Github.ShareDialog" timestamp="1604409396041">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-941" y="444" key="Github.ShareDialog/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1604409396041" />
+    <state x="-1292" y="191" key="SettingsEditor" timestamp="1604719182084">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1292" y="191" key="SettingsEditor/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1604719182084" />
+    <state x="-1209" y="279" key="Vcs.Push.Dialog.v2" timestamp="1604721098566">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1209" y="279" key="Vcs.Push.Dialog.v2/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1604721098566" />
+    <state x="-1297" y="227" key="search.everywhere.popup" timestamp="1604720068141">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1297" y="227" key="search.everywhere.popup/0.0.1280.689/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1604720068141" />
   </component>
 </project>
